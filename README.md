@@ -1,5 +1,14 @@
 # DIALYSIS OF PATIENTS
 
+## Table of Contents
+
+- [Project Description](#project_decription)
+- [Dataset Details](#dataset_details)
+- [KPI's](#kpi's)
+- [Tableau Dashboard](#tableau_dashboard)
+- [Insights](#insights)
+- [Conclusion](#conclusion)
+
 ## Project Description
 
 The Health Care Dialysis industry is a complex sector that operates globally, encompassing various treatment methods including hemodialysis and peritoneal dialysis. It is a dynamic industry influenced by various factors, requiring adaptability, strategic planning, and a commitment to patient safety and satisfaction for long-term success. Analyzing the data of the dialysis industry serves as a fundamental tool for improving efficiency and making informed decisions. This analysis includes assessing the number of centers, patient volumes, profit vs. non-profit entities, category comparisons, and payment reduction rates. By analysing these factors, healthcare institutions can enhance treatment infrastructure and ultimately improve patient care in the dialysis sector.
@@ -51,19 +60,29 @@ Sub-dashboards:
 
 - The number of Dialysis Stations varies across Countries, States and Cities.
 - Country-wise, the highest number of dialysis stations is located in Los Angeles (4,129) followed by Harris (2,499) and Cook (2,365).
-- State-wise, the highest number of dialysis stations is located in California(15,095) folowed by Texas(14,200) and Florida(8,838).
-- City-wise, the highest numberof dialysis stations is located in Houston(1,972) followed by Chicago(1,329) and San Antonio(1,165).
+- State-wise, the highest number of dialysis stations is located in California (15,095) folowed by Texas (14,200) and Florida (8,838).
+- City-wise, the highest numberof dialysis stations is located in Houston (1,972) followed by Chicago (1,329) and San Antonio (1,165).
 - This variation is likely due to number of factors, including population density, the prevalance of Kidney disease, and the availability of healthcare resources.
 
 ### KPI-5 : No. of Category Text  - As Expected
 
-- Patient Hospitalization Category tops the highestnumber of "As Expected" results(6,818) followed by Patient Hospital Re-admission Category text(6,714) and PPPW Category text(6,659).
+- Patient Hospitalization Category tops the highestnumber of "As Expected" results (6,818) followed by Patient Hospital Re-admission Category text (6,714) and PPPW Category text (6,659).
 - This suggests that these category must be well understood or predictable in terms of outcomes.
 
-## KPI-6 : Average Payment Reduction Rate
+### KPI-6 : Average Payment Reduction Rate
 
 - Average Payment Reduction rate calculates and tracks the average rate at which payments are reduced, providing insights to cost-saving measures.
-- The 
+- The analysis of this KPI helps the healthcare providers in assessing the financial performance, identifying the factors cnotributing to payment reduction.
+
+## Conclusion
+
+- The total number of patients across various summaries amounted to 22.32 million.
+- The "Serum Phosphorous Summary" has the highest number of patients.
+- There are 369 Chain Organizations with total performance score as "No Score".
+- The total number of Dialysis stations is 135K. Los Angeles tops among the countries, California among the states and Houston among the cities.
+- The overall profit reached 89%, with Los Angeles contributing the highest.
+
+This dashboard helps the Healthcare Organizations in understanding the healthcare data to draw insights for making informed decisions for providing better care and improving the overall well-being of the patients.
 
 
 
