@@ -4,7 +4,7 @@
 
 - [Project Description](#project-description)
 - [Dataset Details](#dataset-details)
-- [KPI's](https://github.com/Sruthi-Suresh22/Dialysis-of-Patients/edit/main/README.md#kpis)
+- [KPI's](#kpis)
 - [Tableau Dashboard](#tableau-dashboard)
 - [Insights](#insights)
 - [Conclusion](#conclusion)
